@@ -45,5 +45,5 @@ O sistema automaticamente executará algumas operações e exibirá os resultado
 
 ### 👨‍💻 Autor
 
-**Murilo França** — sempre codando! 💪
+**Murilo França** 
 
